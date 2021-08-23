@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-08-19T03:25:19.289810800Z</date>
+  <millis>1629343519289</millis>
+  <nanos>810800</nanos>
+  <sequence>1</sequence>
+  <logger>org.ssglobal.training.codes.FunList</logger>
+  <level>WARNING</level>
+  <class>org.ssglobal.training.codes.FunList</class>
+  <method>enableDisplay</method>
+  <thread>1</thread>
+  <message>custom date is deprecated</message>
+</record>
+</log>
